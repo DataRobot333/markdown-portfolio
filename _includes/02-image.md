@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![python logo]('https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg')
